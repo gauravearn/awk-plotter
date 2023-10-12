@@ -10,7 +10,6 @@ and can pipe for the plot.
 
 ```
 
-![visual](https://github.com/sablokgaurav/awk_shell_file_directory_size_plotter_awk/blob/main/code_awk.png)
 ![visual1](https://github.com/sablokgaurav/awk_shell_file_directory_size_plotter_awk/blob/main/awk_profile.png)
 
 if you dont have the docker containers file system listed, no need to think a simply shell utility to profile the docker containers files with the following code and plot as barplots.
