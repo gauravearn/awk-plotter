@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/awk -f
 # -*- coding:  utf-8 -*-
 # Author: Gaurav Sablok
 # date: 2023-10-12
