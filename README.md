@@ -10,9 +10,9 @@ and can pipe for the plot.
 
 if you dont have the docker containers file system listed, no need to think a simply shell utility to profile the docker containers files with the following code and plot as barplots.
 
-Gaurav Sablok
-Academic Staff Member
-Bioinformatics
-Institute for Biochemistry and Biology
-University of Potsdam
+Gaurav Sablok \
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
 Potsdam,Germany 
